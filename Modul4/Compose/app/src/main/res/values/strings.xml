@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">ListCompose</string>
+
+    <string name="manhwa_website">Lihat Web</string>
+    <string name="manhwa_detail">Detail</string>
+    <string-array name="item_titles">
+        <item>Lookism</item>
+        <item>Bones</item>
+        <item>Wee</item>
+        <item>Hero Has Returned</item>
+        <item>Study Group</item>
+    </string-array>
+
+    <string-array name="item_authors">
+        <item>Park Taejun</item>
+        <item>Mu Mu-min</item>
+        <item>Amoeba UwU</item>
+        <item>FUNGBACK</item>
+        <item>Blue String</item>
+    </string-array>
+
+    <string-array name="item_info1">
+        <item>Action, School</item>
+        <item>Fantasy, Adventure</item>
+        <item>Comedy, School</item>
+        <item>Fantasy, Revenge</item>
+        <item>Action, Comedy, School</item>
+    </string-array>
+
+    <string-array name="item_info2">
+        <item>2021</item>
+        <item>2020</item>
+        <item>2019</item>
+        <item>2022</item>
+        <item>2023</item>
+    </string-array>
+
+    <string-array name="item_urls">
+        <item>https://lookism.fandom.com/wiki/Lookism</item>
+        <item>https://en.namu.wiki/w/%EB%B3%B8%EC%A6%88(%EC%9B%B9%ED%88%B0)</item>
+        <item>https://webtoon.fandom.com/id/wiki/WEE!!!</item>
+        <item>https://hero-has-returned.fandom.com/wiki/Hero_Has_Returned_Wiki</item>
+        <item>https://study-group.fandom.com/wiki/Study_Group_Wiki</item>
+    </string-array>
+
+    <string-array name="item_descriptions">
+        <item>Daniel is an unattractive loner who wakes up in a different body. Now tall, handsome, and cooler than ever in his new form, Daniel aims to achieve everything he couldn\'t before. How far will he go to keep his body… and his secrets?</item>
+        <item>The protagonist, Kang Jihyoung, wanted to become a hunter for his mother. However, his bullies put his mother into a vegetative state. He tried to take revenge but was thoroughly crushed and trapped… The boy who lost everything became a beast and began his hunt.</item>
+        <item>Amu and her gang\'s wacky daily life as high school teenagers.</item>
+        <item>After saving one world, warrior Minsu Kim returns to Earth only to find that he’s lost everything… so he decides to destroy the world he used to call home. In his rampage, he kills teenager Jeongsu Park and his family. But instead of dying normally, Jeongsu is transported to another world, where he finds that he\'s now a warrior himself. After killing the demon king of this alternate world and honing his skills as a warrior, Jeongsu returns to earth, hell-bent on revenge against Minsu. As the two warriors fight with the fate of their country in the balance, who will emerge victorious?</item>
+        <item>Yoon Ga Min, a 17 year old student, goes to a school known to harbor future criminals. Stuck in a carnivorous environment where only the strongest survive, he struggles to get good grades to enter a 4 year university. But, will he be able to study well enough to enter university, or will he get involved in the unending fights around the school?</item>
+    </string-array>
+
+</resources>
